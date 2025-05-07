@@ -12,3 +12,7 @@ This repository contains an **encryption algorithm** designed to securely encryp
 - **Randomness**: The encryption method has been tested and passed the **3 NIST randomness tests** to ensure unpredictable outputs.
 - **Brute Force Resistance**: The algorithm is designed to withstand brute force attacks, making it resilient to common password-cracking methods.
 - **Avalanche Effect**: The algorithm shows a high avalanche score, ensuring that even small changes in the input result in significantly different outputs.
+
+
+# **Tech Stack**
+- **Python**
